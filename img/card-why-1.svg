@@ -1,0 +1,96 @@
+<svg id="Rank_Projects" data-name="Rank, Projects" xmlns="http://www.w3.org/2000/svg" width="558" height="398.801" viewBox="0 0 558 398.801">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e6ebf0;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12, .cls-3, .cls-5, .cls-8 {
+        fill: #79828b;
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #8d99a4;
+      }
+
+      .cls-4 {
+        font-size: 25px;
+        font-family: 'Poppins', sans-serif;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        font-weight: 500;
+      }
+
+      .cls-11, .cls-5, .cls-8 {
+        font-size: 21px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: 'Poppins', sans-serif;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.107em;
+      }
+
+      .cls-7 {
+        fill: #42505c;
+        font-size: 47px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-11, .cls-8 {
+        font-family: 'Poppins', sans-serif;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #10c172;
+      }
+
+      .cls-13 {
+        fill: #6271d2;
+      }
+    </style>
+  </defs>
+  <rect id="cardBg" class="cls-1" width="558" height="398.801" rx="8"/>
+  <path id="divider" class="cls-2" d="M0,.5,480.813.5" transform="translate(38.594 222.217)"/>
+  <g id="btc" transform="translate(38.594 305.533)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-3" width="101.308" height="51.458" rx="16"/>
+    <text id="ruby" class="cls-4" transform="translate(19.297 32.432)"><tspan x="0" y="0">ruby</tspan></text>
+  </g>
+  <g id="btc-2" data-name="btc" transform="translate(159.199 305.533)">
+    <rect id="Rectangle_6-2" data-name="Rectangle 6" class="cls-3" width="147.942" height="51.458" rx="16"/>
+    <text id="clojure" class="cls-4" transform="translate(19.297 32.432)"><tspan x="0" y="0">clojure</tspan></text>
+  </g>
+  <g id="btc-3" data-name="btc" transform="translate(326.438 305.533)">
+    <rect id="Rectangle_6-3" data-name="Rectangle 6" class="cls-3" width="101.308" height="51.458" rx="16"/>
+    <text id="java" class="cls-4" transform="translate(19.297 32.432)"><tspan x="0" y="0">java</tspan></text>
+  </g>
+  <text id="RANK" class="cls-5" transform="translate(38.594 59.986)"><tspan class="cls-6" x="0" y="0">RAN</tspan><tspan y="0">K</tspan></text>
+  <text id="TOP_CATEGORIES" data-name="TOP CATEGORIES" class="cls-5" transform="translate(38.594 277.075)"><tspan class="cls-6" x="0" y="0">TOP CATEGORIE</tspan><tspan y="0">S</tspan></text>
+  <text id="PROJECTS" class="cls-5" transform="translate(332.87 59.986)"><tspan class="cls-6" x="0" y="0">PROJECT</tspan><tspan y="0">S</tspan></text>
+  <text id="_607" data-name="607" class="cls-7" transform="translate(102.916 140.444)"><tspan x="0" y="0">607</tspan></text>
+  <text id="_45" data-name="45" class="cls-7" transform="translate(397.193 140.444)"><tspan x="0" y="0">45</tspan></text>
+  <text id="You_re_in_top_40_" data-name="You’re in top 40%" class="cls-8" transform="translate(38.594 182.199)"><tspan x="0" y="0">You’re in top</tspan><tspan class="cls-9" y="0"> </tspan><tspan class="cls-10" y="0">40%</tspan></text>
+  <text id="_10_in_this_month" data-name="10 in this month" class="cls-11" transform="translate(332.87 182.199)"><tspan x="0" y="0">10 </tspan><tspan class="cls-12" y="0">in this month</tspan></text>
+  <g id="rank-2" data-name="rank" transform="translate(38.594 94.876)">
+    <circle id="Oval_8" data-name="Oval 8" class="cls-13" cx="25.729" cy="25.729" r="25.729"/>
+    <path id="Star" class="cls-1" d="M12.865,21.334l-7.951,4.4L6.432,16.42,0,9.828,8.889,8.469,12.865,0,16.84,8.469l8.889,1.358L19.3,16.42l1.518,9.309Z" transform="translate(12.865 12.865)"/>
+  </g>
+  <g id="projects-2" data-name="projects" transform="translate(332.87 94.876)">
+    <circle id="Oval_8-2" data-name="Oval 8" class="cls-13" cx="25.729" cy="25.729" r="25.729"/>
+    <path id="Fill_1" data-name="Fill 1" class="cls-1" d="M20.642,20.9h0L18.321,18.5l7.587-8.044-7.587-8L20.642,0l9.911,10.452L20.643,20.9Zm-10.731,0h0L0,10.452,9.911,0l2.323,2.45-7.588,8L12.234,18.5,9.912,20.9Z" transform="translate(11.256 16.081)"/>
+  </g>
+</svg>

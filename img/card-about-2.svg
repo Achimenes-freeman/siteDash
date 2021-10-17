@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="487" height="584.4" viewBox="0 0 487 584.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e6ebf0;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #42505c;
+        font-size: 27px;
+        font-family: 'Poppins', sans-serif;
+      }
+
+      .cls-4 {
+        fill: #ffb653;
+      }
+
+      .cls-5 {
+        fill: #ffd7ab;
+      }
+
+      .cls-6 {
+        fill: #ffabab;
+      }
+
+      .cls-10, .cls-7 {
+        fill: #b9c0e9;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #ff5353;
+      }
+
+      .cls-9 {
+        opacity: 0.47;
+      }
+
+      .cls-10 {
+        opacity: 0.49;
+      }
+    </style>
+  </defs>
+  <g id="home-card-2" transform="translate(0 -52)">
+    <rect id="cardBg" class="cls-1" width="487" height="584.4" rx="8" transform="translate(0 52)"/>
+    <path id="Line_2_Copy" data-name="Line 2 Copy" class="cls-2" d="M0,.5H420.211" transform="translate(33.394 244.212)"/>
+    <path id="Line_2_Copy-2" data-name="Line 2 Copy" class="cls-2" d="M0,.5H420.211" transform="translate(33.394 366.658)"/>
+    <path id="Line_2_Copy-3" data-name="Line 2 Copy" class="cls-2" d="M0,.5H420.211" transform="translate(33.394 489.104)"/>
+    <text id="_1." data-name="1." class="cls-3" transform="translate(33.394 195.097)"><tspan x="0" y="0">1.</tspan></text>
+    <text id="_2." data-name="2." class="cls-3" transform="translate(33.394 317.543)"><tspan x="0" y="0">2.</tspan></text>
+    <text id="_4." data-name="4." class="cls-3" transform="translate(33.394 562.434)"><tspan x="0" y="0">4.</tspan></text>
+    <text id="_3." data-name="3." class="cls-3" transform="translate(33.394 439.989)"><tspan x="0" y="0">3.</tspan></text>
+    <g id="profilePicMask" transform="translate(72.354 150.791)">
+      <circle id="Mask" class="cls-4" cx="33.394" cy="33.394" r="33.394" transform="translate(0 0)"/>
+    </g>
+    <g id="profilePicMask-2" data-name="profilePicMask" transform="translate(72.354 273.237)">
+      <circle id="Mask-2" data-name="Mask" class="cls-4" cx="33.394" cy="33.394" r="33.394" transform="translate(0 0)"/>
+    </g>
+    <g id="profilePicMask-3" data-name="profilePicMask" transform="translate(72.354 395.683)">
+      <circle id="Mask-3" data-name="Mask" class="cls-5" cx="33.394" cy="33.394" r="33.394" transform="translate(0 0)"/>
+    </g>
+    <g id="profilePicMask-4" data-name="profilePicMask" transform="translate(72.354 518.129)">
+      <circle id="Mask-4" data-name="Mask" class="cls-6" cx="33.394" cy="33.394" r="33.394" transform="translate(0 0)"/>
+    </g>
+    <rect id="Прямоугольник_524" data-name="Прямоугольник 524" class="cls-7" width="148.883" height="19.48" rx="7" transform="translate(32.003 88.177)"/>
+    <rect id="Прямоугольник_527" data-name="Прямоугольник 527" class="cls-7" width="148.883" height="13.914" rx="6.957" transform="translate(175.32 157.749)"/>
+    <rect id="Прямоугольник_530" data-name="Прямоугольник 530" class="cls-8" width="148.883" height="13.914" rx="6.957" transform="translate(175.32 284.369)"/>
+    <rect id="Прямоугольник_532" data-name="Прямоугольник 532" class="cls-8" width="148.883" height="13.914" rx="6.957" transform="translate(175.32 406.814)"/>
+    <rect id="Прямоугольник_534" data-name="Прямоугольник 534" class="cls-8" width="148.883" height="13.914" rx="6.957" transform="translate(175.32 530.651)"/>
+    <rect id="Прямоугольник_528" data-name="Прямоугольник 528" class="cls-9" width="90.443" height="13.914" rx="6.957" transform="translate(175.32 185.577)"/>
+    <rect id="Прямоугольник_529" data-name="Прямоугольник 529" class="cls-9" width="90.443" height="13.914" rx="6.957" transform="translate(175.32 312.197)"/>
+    <rect id="Прямоугольник_531" data-name="Прямоугольник 531" class="cls-9" width="90.443" height="13.914" rx="6.957" transform="translate(175.32 434.643)"/>
+    <rect id="Прямоугольник_533" data-name="Прямоугольник 533" class="cls-9" width="90.443" height="13.914" rx="6.957" transform="translate(175.32 558.48)"/>
+    <rect id="Прямоугольник_525" data-name="Прямоугольник 525" class="cls-10" width="54.266" height="13.914" rx="6.957" transform="translate(339.509 90.96)"/>
+    <rect id="Прямоугольник_526" data-name="Прямоугольник 526" class="cls-7" width="54.266" height="13.914" rx="6.957" transform="translate(406.297 90.96)"/>
+  </g>
+</svg>

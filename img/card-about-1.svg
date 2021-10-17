@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465.055" height="332.373" viewBox="0 0 465.055 332.373">
+  <g id="home-card-1" transform="translate(0 0)">
+    <rect id="cardBg" width="465" height="332.334" rx="8" fill="#fff"/>
+    <path id="divider" d="M0,.5H400.677" transform="translate(32.161 185.098)" fill="none"/>
+    <text id="RANK" transform="translate(32.161 50.821)" fill="#79828b" font-size="18" font-family="Poppins, sans-serif" font-weight="500"><tspan x="0" y="0" letter-spacing="0.1em">RAN</tspan><tspan y="0">K</tspan></text>
+    <text id="PROJECTS" transform="translate(277.392 50.821)" fill="#79828b" font-size="18" font-family="Poppins, sans-serif" font-weight="500"><tspan x="0" y="0" letter-spacing="0.1em">PROJECT</tspan><tspan y="0">S</tspan></text>
+    <g id="rank-2" data-name="rank" transform="translate(32.161 79.063)">
+      <circle id="Oval_8" data-name="Oval 8" cx="21.441" cy="21.441" r="21.441" transform="translate(0 0)" fill="#b9b9b9" opacity="0.5"/>
+      <path id="Star" d="M10.72,17.778,4.095,21.441,5.36,13.684,0,8.19,7.408,7.058,10.72,0l3.313,7.058L21.441,8.19l-5.36,5.494,1.265,7.757Z" transform="translate(10.72 10.72)" fill="#fff"/>
+    </g>
+    <g id="projects-2" data-name="projects" transform="translate(277.392 79.063)">
+      <circle id="Oval_8-2" data-name="Oval 8" cx="21.441" cy="21.441" r="21.441" transform="translate(0 0)" fill="#b9b9b9" opacity="0.5"/>
+      <path id="Fill_1" data-name="Fill 1" d="M17.2,17.42h0l-1.934-2.006,6.322-6.7L15.267,2.042,17.2,0l8.259,8.71L17.2,17.419Zm-8.943,0h0L0,8.71,8.259,0l1.936,2.042L3.871,8.71l6.323,6.7L8.26,17.419Z" transform="translate(9.38 13.401)" fill="#fff"/>
+    </g>
+    <rect id="Прямоугольник_492" data-name="Прямоугольник 492" width="140.706" height="18.761" rx="9.38" transform="translate(88.444 91.124)" fill="#ff5353"/>
+    <rect id="Прямоугольник_500" data-name="Прямоугольник 500" width="97.824" height="18.761" rx="9.38" transform="translate(333.674 91.124)" fill="#ff5353"/>
+    <rect id="Прямоугольник_494" data-name="Прямоугольник 494" width="127.305" height="14.294" rx="7.147" transform="translate(32.161 141.599)" fill="#ff5353" opacity="0.3"/>
+    <rect id="Прямоугольник_496" data-name="Прямоугольник 496" width="127.305" height="13.401" rx="6.7" transform="translate(32.161 221.11)" fill="#ff5353"/>
+    <rect id="Прямоугольник_497" data-name="Прямоугольник 497" width="68.343" height="13.401" rx="6.7" transform="translate(32.161 269.352)" fill="#ff5353" opacity="0.3"/>
+    <rect id="Прямоугольник_498" data-name="Прямоугольник 498" width="68.343" height="13.401" rx="6.7" transform="translate(143.386 269.352)" fill="#ff5353" opacity="0.3"/>
+    <rect id="Прямоугольник_499" data-name="Прямоугольник 499" width="68.343" height="13.401" rx="6.7" transform="translate(263.991 269.352)" fill="#ff5353" opacity="0.3"/>
+    <rect id="Прямоугольник_495" data-name="Прямоугольник 495" width="127.305" height="14.294" rx="7.147" transform="translate(277.392 141.599)" fill="#ff5353" opacity="0.3"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="85" viewBox="0 0 106 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fd5353;
+      }
+
+      .cls-3 {
+        opacity: 0.18;
+      }
+    </style>
+  </defs>
+  <g id="Сгруппировать_220" data-name="Сгруппировать 220" transform="translate(-526 -1833)">
+    <rect id="Прямоугольник_536" data-name="Прямоугольник 536" class="cls-1" width="106" height="85" rx="11" transform="translate(526 1833)"/>
+    <rect id="Прямоугольник_537" data-name="Прямоугольник 537" class="cls-2" width="36.891" height="7.5" rx="3.75" transform="translate(535 1849)"/>
+    <rect id="Прямоугольник_546" data-name="Прямоугольник 546" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(535 1865)"/>
+    <rect id="Прямоугольник_551" data-name="Прямоугольник 551" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(586 1865)"/>
+    <rect id="Прямоугольник_547" data-name="Прямоугольник 547" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(535 1881)"/>
+    <rect id="Прямоугольник_550" data-name="Прямоугольник 550" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(586 1881)"/>
+    <rect id="Прямоугольник_548" data-name="Прямоугольник 548" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(535 1897)"/>
+    <rect id="Прямоугольник_549" data-name="Прямоугольник 549" class="cls-3" width="36.891" height="7.5" rx="3.75" transform="translate(586 1897)"/>
+    <rect id="Прямоугольник_545" data-name="Прямоугольник 545" class="cls-2" width="36.891" height="7.5" rx="3.75" transform="translate(586 1849)"/>
+  </g>
+</svg>

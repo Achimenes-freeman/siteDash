@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="85" viewBox="0 0 106 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fd5353;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <g id="Сгруппировать_219" data-name="Сгруппировать 219" transform="translate(-526 -1833)">
+    <rect id="Прямоугольник_536" data-name="Прямоугольник 536" class="cls-1" width="106" height="85" rx="11" transform="translate(526 1833)"/>
+    <rect id="Прямоугольник_537" data-name="Прямоугольник 537" class="cls-2" width="44.333" height="7" rx="3.5" transform="translate(572 1852)"/>
+    <rect id="Прямоугольник_543" data-name="Прямоугольник 543" class="cls-3" width="74.333" height="7" rx="3.5" transform="translate(542 1869)"/>
+    <rect id="Прямоугольник_544" data-name="Прямоугольник 544" class="cls-3" width="74.333" height="7" rx="3.5" transform="translate(542 1886)"/>
+    <rect id="Прямоугольник_541" data-name="Прямоугольник 541" class="cls-2" width="13.333" height="5" rx="2.5" transform="translate(544.028 1849.627) rotate(30)"/>
+    <rect id="Прямоугольник_542" data-name="Прямоугольник 542" class="cls-2" width="24.333" height="5" rx="2.5" transform="matrix(0.643, -0.766, 0.766, 0.643, 548.769, 1857.507)"/>
+  </g>
+</svg>

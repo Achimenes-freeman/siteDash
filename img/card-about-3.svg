@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880.118" height="298.999" viewBox="0 0 880.118 298.999">
+  <defs>
+    <style>
+      .cls-1, .cls-13, .cls-6, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff5353;
+      }
+
+      .cls-12, .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-3 {
+        fill: #f6f8fa;
+      }
+
+      .cls-4 {
+        opacity: 0.2;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-15, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #ff5353;
+        stroke-linecap: round;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 1.65px;
+      }
+
+      .cls-6 {
+        stroke: #4360df;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #79828b;
+        font-family: 'Poppins', sans-serif;
+      }
+
+      .cls-7 {
+        font-size: 13px;
+      }
+
+      .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-9 {
+        stroke: #6271d2;
+        stroke-width: 1.103px;
+      }
+
+      .cls-10 {
+        fill: #42505c;
+        font-size: 19px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #fb5252;
+      }
+
+      .cls-13 {
+        opacity: 0.44;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        filter: url(#Rectangle_7);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff5353"/>
+    </linearGradient>
+    <filter id="Rectangle_7" x="510.412" y="42.365" width="87.583" height="46.494" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.002" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.504" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="home-card-3" transform="matrix(1, 0, 0, 1, -164.999, -185.999)">
+    <g id="Earnings" transform="translate(165 186)">
+      <rect id="cardBg" class="cls-1" width="880.121" height="299" rx="8"/>
+      <g id="eth" transform="translate(28.935 178.435)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="142.266" height="38.581" rx="19"/>
+      </g>
+      <g id="chart" transform="translate(258.008 38.581)">
+        <rect id="bar" class="cls-3" width="36.169" height="192.903" transform="translate(50.637)"/>
+        <rect id="bar-2" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(231.484)"/>
+        <rect id="bar-3" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(412.331)"/>
+        <rect id="bar-4" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(141.06)"/>
+        <rect id="bar-5" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(321.907)"/>
+        <rect id="bar-6" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(501.548)"/>
+        <rect id="bar-7" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(96.452)"/>
+        <rect id="bar-8" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(276.093)"/>
+        <rect id="bar-9" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(456.94)"/>
+        <rect id="bar-10" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(186.875)"/>
+        <rect id="bar-11" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(366.516)"/>
+        <rect id="bar-12" data-name="bar" class="cls-3" width="36.169" height="192.903" transform="translate(547.363)"/>
+        <path id="gradientFill" class="cls-4" d="M499.137,143.472H0V78.8L47.053,17.07,93.177,45.625l42.765-27.711,44.983,121.563,45.73-128.489,43.987,70.977L318.954,34.6l43.159,18.12,43.524-34.806L452.618,34.6,499.137,0" transform="translate(67.516 48.226)"/>
+        <path id="graphLine" class="cls-5" d="M0,78.9,46.359,15.3,92.384,45.91l43.625-29.133,44.45,121.873L226.271,9.321l44.278,73.124L318.613,33.66,361.68,53.08l43.932-36.3,46.969,16.88L497.931,0" transform="translate(68.722 49.431)"/>
+        <circle id="Oval_6_Copy_11" data-name="Oval 6 Copy 11" class="cls-6" cx="5.425" cy="5.425" r="5.425" transform="translate(289.355 51.843)"/>
+        <text id="Mar" class="cls-7" transform="translate(57.456 215.343)"><tspan x="0" y="0">Mar</tspan></text>
+        <text id="_100" data-name="$100" class="cls-7" transform="translate(4.043 171.94)"><tspan x="0" y="0">$100</tspan></text>
+        <text id="_150" data-name="$150" class="cls-7" transform="translate(4.043 124.919)"><tspan x="0" y="0">$150</tspan></text>
+        <text id="_200" data-name="$200" class="cls-7" transform="translate(1.111 79.105)"><tspan x="0" y="0">$200</tspan></text>
+        <text id="_250" data-name="$250" class="cls-7" transform="translate(1.111 32.085)"><tspan x="0" y="0">$250</tspan></text>
+        <text id="May" class="cls-8" transform="translate(146.886 214.343)"><tspan x="0" y="0">May</tspan></text>
+        <text id="Jul" class="cls-7" transform="translate(239.719 215.343)"><tspan x="0" y="0">Jul</tspan></text>
+        <text id="Sep" class="cls-7" transform="translate(326.49 215.343)"><tspan x="0" y="0">Sep</tspan></text>
+        <text id="Jan" class="cls-7" transform="translate(506.975 215.343)"><tspan x="0" y="0">Jan</tspan></text>
+        <text id="Nov" class="cls-7" transform="translate(417.983 215.343)"><tspan x="0" y="0">Nov</tspan></text>
+        <g class="cls-16" transform="matrix(1, 0, 0, 1, -258.01, -38.58)">
+          <g id="Rectangle_7-2" data-name="Rectangle 7" class="cls-9" transform="translate(514.92 45.88)">
+            <rect class="cls-14" width="78.559" height="37.467" rx="15.538"/>
+            <rect class="cls-15" x="0.551" y="0.551" width="77.456" height="36.364" rx="14.987"/>
+          </g>
+        </g>
+        <text id="_226" data-name="$226" class="cls-10" transform="translate(269.038 34.262)"><tspan x="0" y="0">$226</tspan></text>
+      </g>
+    </g>
+    <rect id="Прямоугольник_486" data-name="Прямоугольник 486" class="cls-11" width="167.585" height="16.879" rx="7" transform="translate(195.141 219.758)"/>
+    <rect id="Прямоугольник_487" data-name="Прямоугольник 487" class="cls-12" width="169.996" height="16.879" rx="8" transform="translate(195.141 280.04)"/>
+    <rect id="Прямоугольник_488" data-name="Прямоугольник 488" class="cls-12" width="54.254" height="16.879" rx="8" transform="translate(195.141 313.798)"/>
+    <rect id="Прямоугольник_490" data-name="Прямоугольник 490" class="cls-2" width="114.536" height="10.851" rx="5" transform="translate(195.141 424.718)"/>
+    <rect id="Прямоугольник_491" data-name="Прямоугольник 491" class="cls-13" width="98.863" height="10.851" rx="5.425" transform="translate(208.403 378.903)"/>
+  </g>
+</svg>

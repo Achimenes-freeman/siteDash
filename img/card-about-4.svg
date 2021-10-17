@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="463" height="370.4" viewBox="0 0 463 370.4">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: #ff5353;
+      }
+
+      .cls-2 {
+        opacity: 0.79;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #e6ebf0;
+        stroke-linecap: square;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7 {
+        opacity: 0.3;
+      }
+
+      .cls-6 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="home-card-4" transform="translate(0 -52)">
+    <rect id="cardBg" class="cls-1" width="463" height="370.4" rx="8" transform="translate(0 52)"/>
+    <circle id="Mask" class="cls-2" cx="31.749" cy="31.749" r="31.749" transform="translate(31.749 83.749)"/>
+    <path id="divider" class="cls-3" d="M0,.5H399.5" transform="translate(31.749 320.701)"/>
+    <rect id="Прямоугольник_503" data-name="Прямоугольник 503" class="cls-4" width="124.349" height="14.551" rx="7" transform="translate(120.38 94.331)"/>
+    <rect id="Прямоугольник_507" data-name="Прямоугольник 507" class="cls-5" width="82.017" height="14.551" rx="7" transform="translate(120.38 119.466)"/>
+    <rect id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-6" width="387.597" height="14.551" rx="7" transform="translate(31.749 197.514)"/>
+    <rect id="Прямоугольник_505" data-name="Прямоугольник 505" class="cls-6" width="300.289" height="14.551" rx="7" transform="translate(31.749 225.294)"/>
+    <rect id="Прямоугольник_506" data-name="Прямоугольник 506" class="cls-6" width="230.177" height="14.551" rx="7" transform="translate(31.749 253.074)"/>
+    <g id="Сгруппировать_200" data-name="Сгруппировать 200" transform="translate(347.911 99.623)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-5" width="83.34" height="31.749" rx="15.874"/>
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" class="cls-7" width="39.066" height="5.291" rx="2.645" transform="translate(22.137 13.229)"/>
+    </g>
+    <g id="Сгруппировать_201" data-name="Сгруппировать 201" transform="translate(31.749 356.257)">
+      <rect id="Rectangle_6-3" data-name="Rectangle 6" class="cls-4" width="83.34" height="31.749" rx="15.874"/>
+      <rect id="Rectangle_6-4" data-name="Rectangle 6" class="cls-7" width="39.066" height="5.291" rx="2.645" transform="translate(22.137 13.229)"/>
+    </g>
+    <g id="Сгруппировать_202" data-name="Сгруппировать 202" transform="translate(190.491 356.257)">
+      <rect id="Rectangle_6-5" data-name="Rectangle 6" class="cls-4" width="83.34" height="31.749" rx="15.874"/>
+      <rect id="Rectangle_6-6" data-name="Rectangle 6" class="cls-7" width="39.066" height="5.291" rx="2.645" transform="translate(22.137 13.229)"/>
+    </g>
+    <g id="Сгруппировать_203" data-name="Сгруппировать 203" transform="translate(347.912 356.257)">
+      <rect id="Rectangle_6-7" data-name="Rectangle 6" class="cls-4" width="83.34" height="31.749" rx="15.874"/>
+      <rect id="Rectangle_6-8" data-name="Rectangle 6" class="cls-7" width="39.066" height="5.291" rx="2.645" transform="translate(22.137 13.229)"/>
+    </g>
+  </g>
+</svg>

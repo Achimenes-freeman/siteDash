@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="85" viewBox="0 0 106 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #fd3400;
+        opacity: 0.1;
+      }
+
+      .cls-3 {
+        fill: #f1f1f1;
+      }
+
+      .cls-4 {
+        fill: #fd5353;
+      }
+    </style>
+  </defs>
+  <g id="Сгруппировать_221" data-name="Сгруппировать 221" transform="translate(-526 -1833)">
+    <rect id="Прямоугольник_536" data-name="Прямоугольник 536" class="cls-1" width="106" height="85" rx="11" transform="translate(526 1833)"/>
+    <rect id="Прямоугольник_538" data-name="Прямоугольник 538" class="cls-2" width="44" height="8" rx="4" transform="translate(540.091 1877)"/>
+    <rect id="Прямоугольник_539" data-name="Прямоугольник 539" class="cls-2" width="54.333" height="8" rx="4" transform="translate(540 1895)"/>
+    <g id="Сгруппировать_223" data-name="Сгруппировать 223" transform="translate(-750.909)">
+      <circle id="Эллипс_19" data-name="Эллипс 19" class="cls-3" cx="6" cy="6" r="6" transform="translate(1307 1841)"/>
+      <circle id="Эллипс_20" data-name="Эллипс 20" class="cls-3" cx="11" cy="11" r="11" transform="translate(1302 1848)"/>
+      <circle id="Эллипс_21" data-name="Эллипс 21" class="cls-1" cx="6" cy="6" r="6" transform="translate(1307 1853)"/>
+    </g>
+    <g id="Сгруппировать_222" data-name="Сгруппировать 222" transform="translate(-761.909)">
+      <circle id="Эллипс_19-2" data-name="Эллипс 19" class="cls-4" cx="6" cy="6" r="6" transform="translate(1307 1841)"/>
+      <circle id="Эллипс_20-2" data-name="Эллипс 20" class="cls-4" cx="11" cy="11" r="11" transform="translate(1302 1848)"/>
+      <circle id="Эллипс_21-2" data-name="Эллипс 21" class="cls-1" cx="6" cy="6" r="6" transform="translate(1307 1853)"/>
+      <circle id="Эллипс_22" data-name="Эллипс 22" class="cls-1" cx="2" cy="2" r="2" transform="translate(1311 1845)"/>
+    </g>
+  </g>
+</svg>
